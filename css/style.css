@@ -14,3 +14,9 @@
 .navbar_menu li {
     list-style-type: none;
 }
+
+.carousel {
+    display: flex;
+    height: 12rem;
+    background-color: lightgrey;
+}
